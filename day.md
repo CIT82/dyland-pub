@@ -21,12 +21,11 @@
 
 ## 3. **Evening Activities**
 - **5:30 PM:** YOGA
-- **6:30 PM:** Feed Cat
+- **6:30 PM:** **Feed Cat**
 - **7:00 PM:** Dinner
 - **8:00 PM:** Relaxation time
   - Watch a TV show
-  - Scroll on Tiktok
-- **10:00 PM:** Wind down for bed 🛏️
+- **10:00 PM:** Wind down for bed
 
 ---
 
