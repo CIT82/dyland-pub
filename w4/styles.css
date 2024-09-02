@@ -1,56 +1,64 @@
+/* General body styles */
 body {
-    font-family:'Courier New', Courier, monospace;
-    margin: 10px;
-    padding: 10px;
-    text-align: center;
+  font-family: 'Courier New', Courier, monospace; /* Sets font for the document */
+  margin: 10px; /* Adds space outside the body area */
+  padding: 10px; /* Adds space inside the body area */
+  text-align: center; /* Centers text horizontally within the body */
 }
 
+/* Header styles */
 header {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background-color: rgb(133, 133, 133);
-    color: rgb(0, 0, 0);
-    padding: 10px 0;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; /* Bold font for the header */
+  background-color: rgb(133, 133, 133); /* Sets a gray background color for the header */
+  color: rgb(0, 0, 0); /* Sets the text color to black */
+  padding: 10px 0; /* Adds vertical padding inside the header */
 }
 
+/* Main content area styles */
 main {
-    margin: 20px;
-    padding: 15px;
-    background-color: rgb(201, 201, 201);
-
+  margin: 20px; /* Adds space around the main content area */
+  padding: 15px; /* Adds space inside the main content area */
+  background-color: rgb(201, 201, 201); /* Sets a light gray background color */
 }
 
+/* Footer styles */
 footer {
-    margin: 10px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: rgb(44, 174, 234);
+  margin: 10px; /* Adds space around the footer */
+  font-family: Verdana, Geneva, Tahoma, sans-serif; /* Sets font for the footer */
+  background-color: rgb(44, 174, 234); /* Sets background color for the footer */
 }
 
+/* Legend styles for forms or figure descriptions */
 legend {
-    background-color: #000;
-    color: #fff;
-    padding: 3px 6px;
-  }
-  
-  input {
-    margin: 5px;
-  }
-  
-  h3 {
-    font-family: Arial, Helvetica, sans-serif;
-    
-  }
-  .button {
-    font-family: Arial, Helvetica, sans-serif;
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #333;
-    color: #fff;
-    text-decoration: none;
-    border-radius: 5px;
-    margin: 5px;
-    text-align: center;
+  background-color: #000; /* Sets the background color of the legend */
+  color: #fff; /* Sets the color of text */
+  padding: 3px 6px; /* Adds space inside the legend for better readability */
 }
 
+/* Input field styles */
+input {
+  margin: 5px; /* Adds space around input elements */
+}
+
+/* Heading 3 (h3) styles */
+h3 {
+  font-family: Arial, Helvetica, sans-serif; /* Sets font for h3 headings */
+}
+
+/* Button class styles */
+.button {
+  font-family: Arial, Helvetica, sans-serif; /* Sets font for buttons */
+  display: inline-block; /* Allows buttons to be inline with block properties */
+  padding: 10px 20px; /* Adds space inside the button */
+  background-color: #333; /* Sets background color for buttons */
+  color: #fff; /* Sets the text color to white */
+  text-decoration: none; /* Removes underline */
+  border-radius: 5px; /* Adds rounded corners to the button */
+  margin: 5px; /* Adds space around the buttons */
+  text-align: center; /* Centers the text inside the button */
+}
+
+/* Hover effect for buttons */
 .button:hover {
-    background-color: rgb(44, 174, 234);
+  background-color: rgb(44, 174, 234); /* Changes the button background color on hover */
 }
