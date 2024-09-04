@@ -23,9 +23,11 @@ main {
 
 /* Footer styles */
 footer {
-  margin: 10px; /* Adds space around the footer */
+  padding: 10px; /* Adds space around the footer */
   font-family: Verdana, Geneva, Tahoma, sans-serif; /* Sets font for the footer */
+  font-size: small;
   background-color: rgb(44, 174, 234); /* Sets background color for the footer */
+  color: white; /* Sets font color */
 }
 
 /* Legend styles for forms or figure descriptions */
@@ -61,4 +63,8 @@ h3 {
 /* Hover effect for buttons */
 .button:hover {
   background-color: rgb(44, 174, 234); /* Changes the button background color on hover */
+}
+
+.outline {
+  border: 1px black;
 }
