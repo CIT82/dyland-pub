@@ -28,6 +28,25 @@ body {
     display: block;
   }
   
+  input {
+    margin: 5px;
+    background-color: #00ffff;
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+    border-radius: 10px;
+    border: #000000;
+  }
+ textarea {
+  background-color: #00ffff;
+  border: #ff009d;
+  border-radius: 20px;
+ }
+button {
+  color: #5500ff;
+  background-color: #00ffff;
+  border-radius: 5px;
+}
+
   .outline {
     border: 10px rgb(197, 12, 12);
   }

@@ -33,6 +33,7 @@ legend {
   
   input {
     margin: 5px;
+    background-color: rgb(231, 231, 16);
   }
   
   h3 {
