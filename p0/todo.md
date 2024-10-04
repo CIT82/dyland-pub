@@ -1,3 +1,4 @@
+<!-- 
 1. change title
 2. change the icon
 3. change headers in the body
@@ -11,8 +12,6 @@
 10. change text in fact section
 11. delete the video modal
 12. replace all images in >img 
-13. change text in footer
-14. delete team section
+13. change text in footer -->
 15. replace all Lorem Ipsum with new copy
-16. change image references if necessary
 17. add pages to meet requirements
